@@ -1,0 +1,6 @@
+praw       # Reddit API wrapper
+requests   # HTTP requests
+beautifulsoup4  # Web scraping backup
+openai       # For GPT analysis
+streamlit
+python-dotenv 
