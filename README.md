@@ -85,37 +85,74 @@ $ cp config_example.py config.py       # edit config.py with your own api key  -
 
 ---
 
-## 5  CLI Usage
-
-```text
-usage: persona_analyzer.py [-h] [-o OUT] sample_files [sample_files ...]
-
-Generate Reddit persona JSON.
-
-positional arguments:
-  sample_files          Path(s) to .txt files with Reddit data
-
-options:
-  -h, --help            show this help message and exit
-  -o OUT, --out OUT     Output JSON file (default: persona.json)
-```
-
-### Example – Single profile
+### 5 CLI Usage
 
 ```bash
-$ python persona_analyzer.py samples/sample_user1.txt -o output/user1_persona.json
-✓ Persona saved to output/user1_persona.json
+usage: main.py [-h] [-o OUT] [-v] url
 ```
 
-### Example – Combine multiple files
+Analyze Reddit user profiles and generate persona text reports.
+
+**positional arguments**
+
+* `url`
+  Reddit user profile URL (e.g., `https://www.reddit.com/user/username/`)
+
+**optional arguments**
+
+* `-h`, `--help`
+  Show this help message and exit
+* `-o OUT`, `--output OUT`
+  Output file path (default: `output/<username>.txt`)
+* `-v`, `--verbose`
+  Enable verbose mode (prints stats and a preview of the persona)
+
+**Examples**
+
+Analyze a single Reddit user:
 
 ```bash
-$ python persona_analyzer.py samples/*.txt -o output/all_personas.json
+python main.py https://www.reddit.com/user/sample_user/ -o output/sample_user.txt
 ```
 
----
+Enable verbose output:
 
-## 6  Input & Output
+```bash
+python main.py https://www.reddit.com/user/sample_user/ -v
+```
+
+### 6 GUI Usage
+
+```bash
+python gui.py
+```
+
+Launch the Reddit Persona Analyzer Desktop Application (GUI).
+
+This Tkinter-based desktop app allows users to:
+
+* Enter a Reddit profile URL
+* View scraping and analysis progress
+* Display persona results in a scrollable text area
+* Save, clear, or revisit saved analyses
+
+**Features:**
+
+* User-friendly interface
+* Analyze posts and comments using AI
+* Save analysis output to `.txt` files
+* Browse previously saved results
+
+**Steps to Use:**
+
+1. Run `python gui.py`
+2. Enter a Reddit user profile URL (e.g., `https://www.reddit.com/user/sample_user/`)
+3. Click "Analyze Profile"
+4. View results and save them locally if desired
+
+**Note:** Ensure all API keys (Reddit + OpenAI) are configured correctly in the `.env` file. The GUI will alert you if any are missing.
+
+## 7  Input & Output
 
 ### Input (`*.txt`)
 
@@ -146,7 +183,7 @@ A structured object, e.g.:
 
 ---
 
-## 7  Troubleshooting
+## 8  Troubleshooting
 
 | Symptom                        | Likely Cause / Fix                                            |
 | ------------------------------ | ------------------------------------------------------------- |
@@ -157,7 +194,7 @@ A structured object, e.g.:
 
 ---
 
-## 8  Contributing
+## 9  Contributing
 
 1. Fork → create a feature branch.
 2. Install dev tools: `pip install black ruff`.
@@ -166,15 +203,21 @@ A structured object, e.g.:
 
 ---
 
-## 9  Example Outputs
+## 10  Example Outputs
 
-### 9.1 GUI Application
+### 10.1 GUI Application
 
 ![GUI Output](GUI%20output.png)
 
 *Figure 1 – Screenshot of `gui.py` after analysing the Reddit user **Hungry‑Move‑6603**. The generated persona text is displayed in the scroll box and can be saved to `.txt` via the **Save Analysis** button.*
 
-### 9.2 CLI Application
+### 10.2 CLI Application
+
+*CLI Usage
+For command-line usage:
+bashpython main.py https://www.reddit.com/user/username/
+
+*Example: bashpython main.py https://www.reddit.com/user/kojied
 
 ```text
 ==================================================
