@@ -1,0 +1,157 @@
+==================================================
+Reddit User Persona: kojied
+==================================================
+Generated on: 2025-07-15 22:57:04
+
+
+DEMOGRAPHICS
+------------
+
+• age_range
+  Likely a millennial or young adult.
+  Citations:
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+• location
+  Lives in New York City.
+  Citations:
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+• gender
+  Gender not explicitly stated.
+  Citations:
+
+INTERESTS
+---------
+
+• sports
+  Interested in basketball, specifically the NBA.
+  Citations:
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+• technology
+  Interested in spatial computing, AI, and new tech developments.
+  Citations:
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - Killer feature: accessing chatGPT (iPad app) and using audio as primary input I just find this to be...
+      Link: https://reddit.com/r/VisionPro/comments/1alf7av/killer_feature_accessing_chatgpt_ipad_app_and/
+
+• finance
+  Interested in stock trading and options.
+  Citations:
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+• gaming
+  Enjoys gaming, especially strategy and simulation games.
+  Citations:
+    - Can you actually “work” in AVP? I’m curious if people have been able to fully port their workflow in...
+      Link: https://reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+PROFESSIONAL
+------------
+
+• field
+  Works in technology, specifically as an iOS developer.
+  Citations:
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+PERSONALITY
+-----------
+
+• analytical
+  Demonstrates analytical thinking, especially in games and tech.
+  Citations:
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+• humorous
+  Uses humor in discussions.
+  Citations:
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+VALUES
+------
+
+• opportunity
+  Values opportunities for a better life.
+  Citations:
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+• social awareness
+  Aware of social and economic issues.
+  Citations:
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+COMMUNICATION
+-------------
+
+• style
+  Engages with humor and directness, seeks advice and shares knowledge.
+  Citations:
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+EXPERTISE
+---------
+
+• technology
+  Expertise in iOS development and spatial computing.
+  Citations:
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - Killer feature: accessing chatGPT (iPad app) and using audio as primary input I just find this to be...
+      Link: https://reddit.com/r/VisionPro/comments/1alf7av/killer_feature_accessing_chatgpt_ipad_app_and/
+
+• finance
+  Knowledgeable in stock trading and options.
+  Citations:
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - Can you actually “work” in AVP? I’m curious if people have been able to fully port their workflow in...
+      Link: https://reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/
+
+LIFESTYLE
+---------
+
+• urban
+  Lives in an urban environment, frequents local bars and cafes.
+  Citations:
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+• frugal
+  Interested in financial prudence and frugality.
+  Citations:
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+    - I feel violated by intern season There's this bar that I frequent a few blocks away from my house. T...
+      Link: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
