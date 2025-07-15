@@ -170,7 +170,7 @@ A structured object, e.g.:
 
 ### 9.1 GUI Application
 
-![GUI Output](GUI output.png)
+![GUI Output](GUI%20output.png)
 
 *Figure 1 – Screenshot of `gui.py` after analysing the Reddit user **Hungry‑Move‑6603**. The generated persona text is displayed in the scroll box and can be saved to `.txt` via the **Save Analysis** button.*
 
